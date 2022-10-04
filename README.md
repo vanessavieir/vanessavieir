@@ -1,7 +1,8 @@
 ### Bem-vindo!
 ## Olá, Eu sou Vanessa Ferreira!
 
-- 🔭 Estou num projeto de visão computacional,aplicado ao câncer , que irá abordar detecção de imagem para solucionar problemas relacionados a área e também,na criação de um sistema de gerenciamento que possa interligar todas as partes envolvidas na Residência Onboard, criada pelo Porto Digital.  
+- 🔭 Faço Sistemas para internet na Universidade Católica de Pernambuco, e no momento participo de uma Iniciação Científica com visão computacional aplicada ao câncer, que irá abordar detecção de imagem para solucionar problemas relacionados a área(em especifico, o cuidado de feridas oncologia): psicologia/saúde mental, farmacologia, diagnóstico e prognóstico.
+- 🌱 Também estou trabalhando na criação de um sistema de gerenciamento para Residência Onboard, que é um projeto criado pelo Porto Digital.  
 - 🌱 Estudo no momento: deep learnimg, HTML, CSS e JAVASCRIPT
 - 😄 Pronouns: ela/dela
 
