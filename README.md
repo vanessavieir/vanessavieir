@@ -3,7 +3,7 @@
 
 - 🔭 Faço Sistemas para internet na Universidade Católica de Pernambuco, e no momento participo de uma Iniciação Científica com visão computacional aplicada ao câncer, que irá abordar detecção de imagem para solucionar problemas relacionados a área(em especifico, o cuidado de feridas oncologia): psicologia/saúde mental, farmacologia, diagnóstico e prognóstico.
 - 🌱 Também estou trabalhando na criação de um sistema de gerenciamento para Residência Onboard, que é um projeto criado pelo Porto Digital.  
-- 🌱 Estudo no momento: deep learnimg, machine learning e Python
+- 🌱 Estudo no momento: deep learning, machine learning e Python
 - 😄 Pronouns: ela/dela
 
 <div align="center">
