@@ -1,10 +1,18 @@
-### Bem-vindo!
-## Olá, Eu sou Vanessa Ferreira!
+### Welcome!
+## Hello, I'm Vanessa Ferreira!
 
-- 🔭 Faço Sistemas para internet na Universidade Católica de Pernambuco, e no momento participo de uma Iniciação Científica com visão computacional aplicada ao câncer, que irá abordar detecção de imagem para solucionar problemas relacionados a área(em especifico, o cuidado de feridas oncologia): psicologia/saúde mental, farmacologia, diagnóstico e prognóstico.
-- 🌱 Também estou trabalhando na criação de um sistema de gerenciamento para Residência Onboard, que é um projeto criado pelo Porto Digital.  
-- 🌱 Estudo no momento: deep learning, machine learning e Python
-- 😄 Pronouns: ela/dela
+- 🔭 I make Internet Systems at the Catholic University of Pernambuco, and I am currently participating in a Scientific Initiation with computer vision applied to cancer, which will address image detection to solve problems related to the area (specifically, oncology wound care): psychology/mental health, pharmacology, diagnosis and prognosis.
+-
+- 🌱 I have immersion in two Software Residencies in partnership with Porto Digial and two training Bootcamps in the area of ​​data analysis and Quality Assurance, in which I was able to have contact with technologies and tools, such as:
+
+- Figma, Miro, Lean Canvas;
+- Python, Java, HTML and CSS;
+
+I believe that knowledge is one of the only things in life that cannot be taken away from you and that is why I strive to always make my mind an address for the new!
+
+- 🌱 Studying at the moment: Java and Fundamentals of Software Quality.
+- 🌱 Areas of interest: QA, test analyst and data analyst
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/vanessavieir">
